@@ -1,5 +1,6 @@
 {
   "name": "purescript-oo-ffi-2",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
